@@ -10,11 +10,12 @@ int  main()
 					// all functions. Different function may have differnt return 
 					//values. For the main function, it usually goes with int.
 					// main() means the function you want to excute in the file.
-					// Required function for all c++ file 
+					// Required function for all c++ file. All the files will excute
+					// main() first 
 
 	using namespace std; // See explaination below 
 	cout << "Come up and C++ me some time.";// "cout <<"" means print the words you want to see  
-	cout << endl; 							// "cout << endl;" means to switch to next line  
+	cout << endl; 							// "endl" means to switch to next line  
 	cout << "You won. " <<endl;				// The words you want to print must be inside of ""
 	return 0;         						// according to the title you make 
 
