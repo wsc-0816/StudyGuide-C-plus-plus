@@ -18,7 +18,7 @@ int  main()
 	cout << endl; 							// "endl" means to switch to next line  
 	cout << "You won. " <<endl;				// The words you want to print must be inside of ""
 	return 0;         						// according to the title you make 
-
+ // Pay attention: You must type ; after you finish one expression. ; means end this expression.
 }
 
 

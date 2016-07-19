@@ -34,5 +34,9 @@ int main()
 	   cout.
 	 Also there is a space after each word.
 	*/
+	 cout << endl;
+	 cout << "This " << "is " << 25 << " test.";// In this way you can print numbers and strings
+											// The output is : This is 25 test.
 	return 0;
+
 }
