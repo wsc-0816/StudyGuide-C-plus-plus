@@ -1,5 +1,5 @@
-// This file is abou the single data type with single variable
 /*
+This file is about the single data type with single variable
 Basic concepts:
 For the computer memory, the basic unit is bit. One bit includes 2 numbers, 
 1 and 0. This is the reason why we always say that computer is the binary system.
